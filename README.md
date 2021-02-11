@@ -1,4 +1,7 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/luis-alberto-lopez-alvar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+![Luis Alberto's github stats](https://github-readme-stats.vercel.app/api?username=lopezalvar&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
 
 <!--
 **lopezalvar/lopezalvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
